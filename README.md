@@ -28,7 +28,38 @@ Repositório para o desafio de "Git &amp; GitHub - Explorando Colaboração e Ma
 
     ---
 
-    Atualizado
+    Atualizando
 
     ![gif gato pc](https://i.gifer.com/72Oz.gif)
 
+---
+
+# Hello world! ✨
+
+👀 | Me chamo, Micaio! <br>
+🎓 | Bacharelando em Design - Faculdade Méliès <br>
+💻 | Desenvolvimento Web e UX/UI design. <br>
+🚀 | Explorando novos conhecimentos nesse universo Tech. <br>
+✨ | Espero poder contribuir com todos!
+
+## Minhas Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
+width="60px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
+width="60px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+width="50px">
+
+## Ferramentas
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+width="50px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
+width="50px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+width="50px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
+width="50px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg"
+width="50px">
